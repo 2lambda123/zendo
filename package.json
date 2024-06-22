@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "buffer": "^6.0.3",
-    "katex": "^0.16.0",
+    "katex": "^0.16.10",
     "node-graphviz": "github:JosephusPaye/node-graphviz",
     "pako": "^2.0.4",
     "peerjs": "^1.4.6",
