@@ -22,7 +22,7 @@
     "schemas": "npx json2ts -i src/schemas/messages.json -o src/schemas/messages.d.ts && npx json2ts -i src/schemas/game.json -o src/schemas/game.d.ts"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^1.0.1",
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
     "@tsconfig/svelte": "^3.0.0",
     "@types/pako": "^2.0.0",
     "json-schema-to-typescript": "^11.0.1",
@@ -31,7 +31,7 @@
     "svelte-preprocess": "^4.10.7",
     "tslib": "^2.4.0",
     "typescript": "^4.7.4",
-    "vite": "^3.2.10"
+    "vite": "^6.0.11"
   },
   "dependencies": {
     "buffer": "^6.0.3",
